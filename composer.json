@@ -1,0 +1,15 @@
+{
+    "name": "lowcold/closure-laravel",
+    "autoload": {
+        "psr-4": {
+            "Lowcold\\ClosureLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lowcold",
+            "email": "79240950@qq.com"
+        }
+    ],
+    "require": {}
+}
